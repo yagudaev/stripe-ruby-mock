@@ -23,5 +23,6 @@ Gem::Specification.new do |gem|
 
   gem.add_development_dependency 'rspec', '~> 2.4'
   gem.add_development_dependency 'rubygems-tasks', '~> 0.2'
+  gem.add_development_dependency 'rack', '~> 1.1.6'
   gem.add_development_dependency 'thin'
 end
